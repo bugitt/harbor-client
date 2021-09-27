@@ -1,4 +1,4 @@
-module github.com/loheagn/harbor-client
+module github.com/bugitt/harbor-client
 
 go 1.17
 
